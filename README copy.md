@@ -1,9 +1,5 @@
 ## Shell Project - Implementation of a Basic Shell
 
-#### Due: TBD
-
-**Parts Due Dates**: TBD
-
 ### Group Members:
 - Tim Haxton
 - Harika Vemulapalli
