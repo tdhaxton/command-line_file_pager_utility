@@ -1,0 +1,21 @@
+ls
+cd ..
+cd 5143-OpSys
+ls -lah
+cd --help
+test
+cd ~
+cd ~
+ls - lah
+ls -lah
+ls | wc
+ls
+wc -lw history.txt
+wc --help
+wc --help | wc
+clear
+clear
+wc --help
+wc --help | wc
+help --help
+help --help
