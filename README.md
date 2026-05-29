@@ -1,9 +1,9 @@
 ## Shell Project - Implementation of a Basic Shell
 
 ### Group Members:
-- Tim Haxton
-- Harika Vemulapalli
-- Cooper Wolf
+- Tim H.
+- Harika V.
+- Cooper W.
 
 ## Overview
 
