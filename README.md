@@ -109,7 +109,7 @@ Run the `shell.py` file and use the following commands...
 
 
 ## Highs and Lows:
-- Cooper Wolf
+- Cooper W.
   - Highs
     - The first time piping worked
     - Finally figuring out the 'grep' command
@@ -120,7 +120,7 @@ Run the `shell.py` file and use the following commands...
     - Figuring out the arrow keys
     - When the first presentation didn't go as expected
 
-- Tim Haxton
+- Tim H.
   - Highs
     - Making the more function work
     - Figuring out the search function within less
